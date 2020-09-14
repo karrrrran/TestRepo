@@ -1,4 +1,8 @@
 
 This is the third file
 
+<<<<<<< HEAD
 HAHAHAHA
+=======
+New Changes!!
+>>>>>>> f3bb482aada8632bfa993deb6c2de98342b34387
